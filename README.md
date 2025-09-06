@@ -61,7 +61,7 @@ https://example.com/ubuntu-wallpaper.jpg https://example.com/logo.png
 Connection strengthened. Community enriched.
 Folder Structure
 
-**Structure**
+##Structure
 Copy code
 Ubuntu_Requests/
 │
