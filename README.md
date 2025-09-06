@@ -18,7 +18,7 @@ It connects to the wider web, respectfully fetches shared images, and organizes 
 ---
 
 ## 🛠️ Technologies Used
-- **Python 3**  
+- **Python **  
 - [`requests`](https://docs.python-requests.org/en/latest/) → For fetching images  
 - `os` → For directory & file handling  
 - `urllib.parse` → For extracting filenames from URLs  
@@ -39,6 +39,8 @@ pip install requests
 bash
 Copy code
 python ubuntu_image_fetcher.py
+
+
 🖼️ Example Usage
 Terminal Output
 
@@ -59,7 +61,7 @@ https://example.com/ubuntu-wallpaper.jpg https://example.com/logo.png
 Connection strengthened. Community enriched.
 Folder Structure
 
-markdown
+**Structure**
 Copy code
 Ubuntu_Requests/
 │
